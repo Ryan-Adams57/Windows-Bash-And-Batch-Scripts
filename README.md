@@ -15,6 +15,7 @@ Examples:
 - DiskCleanup.bat
 - Reset_Windows_Update.bat
 - GPUpdateFullFix.bat
+- Clear_Temp_Files.bat
 
 ### Application Management
 Install, update, or remove applications quickly.
