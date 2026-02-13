@@ -42,6 +42,7 @@ Examples:
 - Reset_Password.bat
 - RESET_IE.bat
 - Restart_Explorer.bat
+- Clear_Print_Spooler.bat
 
 ## Notes
 Run scripts as Administrator where required. Review before use.
