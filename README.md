@@ -16,7 +16,6 @@ Examples:
 - Reset_Windows_Update.bat
 - GPUpdateFullFix.bat
 - Clear_Temp_Files.bat
-- Windows_11_System_Maintenance
 
 ### Application Management
 Install, update, or remove applications quickly.
