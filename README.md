@@ -1,6 +1,6 @@
-# Windows Admin Batch & PowerShell Scripts
+# Windows Bash & Batch Scripts
 
-A small collection of Batch and PowerShell scripts for common Windows administration, repair, and automation tasks.
+A small collection of Batch and Bash scripts for common Windows administration, repair, and automation tasks.
 
 Scripts are designed for hands-on use by admins and support technicians.
 
