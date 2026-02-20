@@ -26,6 +26,7 @@ Examples:
 - Instaa-It_All.bat
 - Winget-Update-All-Local-Software.bat
 - APP-Deprovisioning-Cyber-CPU.bat
+- Office-GPO-Silent-Install.bat
 
 ### Privilege Elevation
 Run scripts with administrative privileges.
