@@ -34,7 +34,6 @@ Run scripts with administrative privileges.
 Examples:
 
 - Elevation_For_BATCH-CMD-3-Ways.bat
-- PowerShell-Elevation_Methods.ps1
 
 ### User & System Utilities
 Targeted fixes and recovery actions.
