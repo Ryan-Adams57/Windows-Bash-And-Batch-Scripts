@@ -72,7 +72,7 @@ log() {
     local message=$2
     local timestamp=$(date +"%Y-%m-%d %H:%M:%S")
     local log_entry="[$timestamp] [$level] $message"
-    
+
     echo "$log_entry"
     if [[ "$DRY_RUN" == "false" ]]; then
         echo "$log_entry" >> "$LOG_FILE"
@@ -134,7 +134,7 @@ if [[ "$ENABLE_REMOTE" == "true" ]]; then
     else
         log "INFO" "Remote transfer enabled. Starting SCP to $REMOTE_HOST..."
         scp "$BACKUP_DIR/$BACKUP_NAME" "$REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH" 2>> "$LOG_FILE"
-        
+
         if [[ $? -eq 0 ]]; then
             log "INFO" "Remote transfer successful to $REMOTE_HOST:$REMOTE_PATH"
         else
